@@ -7,5 +7,9 @@
 14:30 Siesta
 17:00 Ir al parque
 18:00 Merendar
+19:00 Hacer ejercicio
+20:00 Ducharte
+22:00 Cenar
+24:00 Dormir
 
 
